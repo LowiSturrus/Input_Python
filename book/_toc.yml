@@ -6,18 +6,6 @@ parts:
     chapters:
     - file: start.md
  
-  - caption: Uitleg
-    numbered: true
-    chapters:    
-    - file: aanpassingen_via_github.md
-      sections:
-      - file: changes/visueel.md
-      - file: changes/vergelijkingen.md
-      - file: changes/tabellen.md
-      - file: changes/referenties.md
-      - file: changes/admolitions.md
-      - file: changes/literatuurverwijzingen.md
-
   - caption: Python
     numbered: true
     chapters:    
