@@ -5,10 +5,7 @@ parts:
   - caption:
     chapters:
     - file: start.md
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-
+ 
   - caption: Uitleg
     numbered: true
     chapters:    
@@ -21,18 +18,12 @@ parts:
       - file: changes/admolitions.md
       - file: changes/literatuurverwijzingen.md
 
-  - caption: Oefeningen
+  - caption: Python
     numbered: true
     chapters:    
-    - file: exercises
+    - file: intro.md
       sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/006.md
-      - file: exercises/summary
+      - file: Python/python_invoer.ipynb
     
   - caption: Afsluiting
     numbered: true
