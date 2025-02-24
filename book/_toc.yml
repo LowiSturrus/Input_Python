@@ -8,10 +8,8 @@ parts:
  
   - caption: Python
     numbered: true
-    chapters:    
-    - file: intro.md
-      sections:
-      - file: Python/python_invoer.ipynb
+    chapters: 
+    - file: Python/python_invoer.ipynb
     
   - caption: Afsluiting
     numbered: true
